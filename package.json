@@ -1,0 +1,20 @@
+{
+  "name": "grunt-coffee-coverage",
+  "version": "0.0.1",
+  "description": "A grunt task for the coffee-coverage package",
+  "main": "tasks/coffee-coverage.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guillaume86/grunt-coffee-coverage.git"
+  },
+  "keywords": [
+    "grunt",
+    "coffeescript",
+    "coffee-coverage"
+  ],
+  "author": "Guillaume Lecomte",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-coverage": "~0.1.1"
+  }
+}
